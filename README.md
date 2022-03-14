@@ -96,9 +96,3 @@ you need to set `ROS_HOSTNAME` and `ROS_MASTER_URI=http://roscore:11311` for eac
 #### MIT © cristidragomir97 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Osi_standard_logo.png?20110731064209" width="75">
-
-```bash
-by cristidragomir97
-github.com/cristidragomir97
-2022/03/14
-```
